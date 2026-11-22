@@ -1,7 +1,7 @@
 {
 	"com.rosepen.focus": {
 		"name": "Focus",
-		"icon":"Checkbook"
+		"icon":"Checkbook",
 		"author": "Rosepen Studios",
 		"versions": ["0.2_1.0","0.1_1.0"],
 		"category": "time_management",
@@ -9,7 +9,7 @@
 	},
 	"com.rosepen.habits": {
 		"name": "Habits",
-		"icon": "Flame"
+		"icon": "Flame",
 		"author": "Rosepen Studios",
 		"versions": ["1.0_0.1"],
 		"category": "qol",
