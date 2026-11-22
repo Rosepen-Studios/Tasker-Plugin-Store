@@ -1,0 +1,16 @@
+{
+	"focus": {
+		"name": "Focus",
+		"author": "Rosepen Studios",
+		"versions": ["0.1_1.0","0.2_1.0","0.3_1.0"],
+		"category": "time_management",
+		"repo": "https://api.github.com/repos/Rosepen-Studios/Focus"
+	},
+	"habits": {
+		"name": "Habits",
+		"author": "Rosepen Studios",
+		"versions": ["1.0_0.1"],
+		"category": "qol",
+		"repo": "https://api.github.com/repos/Firepixel85/Beautify"
+	}
+}
