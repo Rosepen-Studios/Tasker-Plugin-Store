@@ -5,7 +5,7 @@
 		"author": "Rosepen Studios",
 		"versions": ["0.2_1.0","0.1_1.0"],
 		"category": "time_management",
-		"repo": "https://github.com/repos/Rosepen-Studios/Focus"
+		"repo": "https://github.com/Rosepen-Studios/Focus"
 	},
 	"com.rosepen.habits": {
 		"name": "Habits",
@@ -13,6 +13,6 @@
 		"author": "Rosepen Studios",
 		"versions": ["1.0_0.1"],
 		"category": "qol",
-		"repo": "https://github.com/repos/Firepixel85/Beautify"
+		"repo": "https://github.com/Firepixel85/Beautify"
 	}
 }
