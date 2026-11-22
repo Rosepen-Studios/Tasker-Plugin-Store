@@ -3,7 +3,7 @@
 		"name": "Focus",
 		"icon":"Checkbook"
 		"author": "Rosepen Studios",
-		"versions": ["0.1_1.0","0.2_1.0","0.3_1.0"],
+		"versions": ["0.2_1.0","0.1_1.0"],
 		"category": "time_management",
 		"repo": "https://api.github.com/repos/Rosepen-Studios/Focus"
 	},
