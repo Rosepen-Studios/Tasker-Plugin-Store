@@ -3,6 +3,7 @@
 		"name": "Focus",
 		"icon":"Checkbook",
 		"author": "Rosepen Studios",
+		"description":"The Focus plugin allows you to track how much time you spend working and then distribute it among projects, to keep organized.",
 		"versions": ["0.2_1.0","0.1_1.0"],
 		"category": "time_management",
 		"repo": "https://github.com/Rosepen-Studios/Focus"
@@ -11,6 +12,7 @@
 		"name": "Habits",
 		"icon": "Flame",
 		"author": "Rosepen Studios",
+		"description":"Create new habits by tracking your progress and staying motivated.",
 		"versions": ["1.0_0.1"],
 		"category": "qol",
 		"repo": "https://github.com/Firepixel85/Beautify"
