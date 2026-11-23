@@ -13,7 +13,7 @@
 		"icon": "Flame",
 		"author": "Rosepen Studios",
 		"description":"Create new habits by tracking your progress and staying motivated.",
-		"versions": ["1.0_0.1"],
+		"versions": ["1.0_1.0"],
 		"category": "qol",
 		"repo": "https://github.com/Firepixel85/Beautify"
 	}
